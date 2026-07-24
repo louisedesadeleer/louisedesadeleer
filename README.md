@@ -20,4 +20,4 @@ I make AI for non-engineer tutorials on YouTube, [you'll love this one](https://
   <a href="https://x.com/LouiseDSadeleer"><img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white&style=flat" /></a>
 </p>
 
-<img width="1714" height="352" alt="miss" src="https://github.com/user-attachments/assets/051c15b4-19fa-4dd4-8ac2-366804f3c989" />
+<img width="1714" height="352" alt="maggie" src="https://github.com/user-attachments/assets/05cd2998-712f-474f-945e-0152733f3995" />
